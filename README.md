@@ -22,6 +22,7 @@
 ## Previews / Screenshots:
 
 Home Page
+
 <img width="910" alt="1 Home page" src="https://github.com/user-attachments/assets/fe13f5f8-bf5d-4e6c-bf94-41e07d7a4d9b">
 <br />
 <br />
@@ -30,6 +31,7 @@ Home Page
 
 
 Customer Page
+
 <img width="910" alt="2 Customer page" src="https://github.com/user-attachments/assets/5b11d732-eb3b-437a-9299-4a4f37a04fcf">
 <br />
 <br />
@@ -38,11 +40,13 @@ Customer Page
 
 
 Product Page
+
 <img width="910" alt="3 Product page" src="https://github.com/user-attachments/assets/1042a408-1527-4d0c-a018-a3f2699c5194">
 <br />
 
 
 Map Page
+
 <img width="910" alt="4 Map page" src="https://github.com/user-attachments/assets/c0e13840-3a01-415d-8a06-838a7ab5c67b">
 <br />
 <br />
